@@ -57,7 +57,7 @@ The model successfully identifies customers at risk of churn, helping businesses
 ## Live Demo
 
 🔗 Dashboard Link:
-https://customer-churn-prediction-dashboard-xxxxx.streamlit.app
+https://customer-churn-prediction-dashboard-kxn5f7rycqjpnyp3sd87uk.streamlit.app/
 ## Future Improvements
 
 * Hyperparameter Tuning
