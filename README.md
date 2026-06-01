@@ -54,7 +54,10 @@ customer-churn-prediction/
 ## Results
 
 The model successfully identifies customers at risk of churn, helping businesses improve retention and reduce revenue loss through data-driven decisions.
+## Live Demo
 
+🔗 Dashboard Link:
+https://customer-churn-prediction-dashboard-xxxxx.streamlit.app
 ## Future Improvements
 
 * Hyperparameter Tuning
